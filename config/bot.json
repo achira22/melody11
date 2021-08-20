@@ -1,0 +1,24 @@
+{
+  "colour": "BLUE",
+  "wrongcolour": "RED",
+  "footertext": "Coded By ACHIRA GAMING",
+  "footericon": "https://cdn.discordapp.com/attachments/865819831931764746/866974556631203840/0b94c75b97182946d495f34c16eab987.jpg",
+  "WelcomeImage " : "https://wallpaperscraft.com/wallpaper/city_buildings_silhouettes_212901",
+  "categories": {
+    "games": "🎮",
+    "config": "⚙️",
+    "automod" : "👍",
+    "giveaway": "🎉",
+    "information": "📻",
+    "moderation": "🔨",
+    "music": "🎵",
+    "musicfilter": "🎼",
+    "owner": "👑",
+    "leveling": "🎂",
+    "ticket": "🎫",
+    "utility": ":comet:",
+    "welcome_leave": "✨",
+    "rr_roles": "🎁",
+    "yt_poster" : "❤"
+  }
+}
